@@ -2,7 +2,7 @@
 
 # Image to ASCII Converter
 
-This Python script takes an input image file in one of the popular image formats, converts it to ASCII art, and saves the output as a `.HARD` file, per Steve's unbearable demands.
+This Python script takes an input image file in one of the popular image formats, converts it to ASCII art, and saves the output as a `.HARD` file, per Steve's insatiable demands.
 
 ## Features
 
@@ -38,7 +38,7 @@ python image_to_ascii.py path_to_input_image
 
 Replace `path_to_input_image` with the path to the input image file you want to convert.
 
-The script will create an ASCII art file with the same name as the input image but with a `.hard` extension in the same directory.
+The script will create an ASCII art file with the same name as the input image but with a `.HARD` extension in the same directory.
 
 ## Example
 
@@ -48,7 +48,7 @@ Suppose you have an image called `example.jpg`. To convert it to ASCII art, run:
 python image_to_ascii.py example.jpg
 ```
 
-The script will generate a file called `example.hard` containing the ASCII art.
+The script will generate a file called `example.HARD` containing the ASCII art.
 
 ## License
 
