@@ -2,7 +2,7 @@
 
 # Image to ASCII Converter
 
-This Python script takes an input image file in one of the popular image formats, converts it to ASCII art, and saves the output as a `.hard` file.
+This Python script takes an input image file in one of the popular image formats, converts it to ASCII art, and saves the output as a `.HARD` file, per Steve's unbearable demands.
 
 ## Features
 
