@@ -1,5 +1,3 @@
-CAN: Here's a GitHub-style README for the image-to-ASCII Python script:
-
 ---
 
 # Image to ASCII Converter
